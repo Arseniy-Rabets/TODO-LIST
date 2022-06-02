@@ -1,0 +1,23 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "simple to do list without React(JS/DOM/CSS/HTML)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arseniy-Rabets/TODO-LIST.git"
+  },
+  "author": "Arseniy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arseniy-Rabets/TODO-LIST/issues"
+  },
+  "homepage": "https://github.com/Arseniy-Rabets/TODO-LIST#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
